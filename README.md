@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgusDharmaUDEL93
-- 👀 I’m interested in Android and Web Developer
-- 🌱 I’m currently learning Java :)
+- 👀 I’m interested in Mobile Developer
+- 🌱 I’m currently learning GO Lang
 - 💞️ I’m looking to collaborate on My Project
 
 <!---
