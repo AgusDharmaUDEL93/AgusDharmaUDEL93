@@ -10,7 +10,7 @@ You can visit my personal website at [udel-dev.com](https://udel-dev.com)
 
 # 🏠 **About Me**
 
-Hello, my name is A and I am currently a student studying Informatics at Udayana University. I specialize in fullstack development with a focus on mobile applications. My primary framework for mobile development is Flutter, which allows me to develop multiplatform applications. I am also proficient in React Native for mobile app development. Additionally, I am familiar with Kotlin and Swift for pure Android and iOS applications respectively. For web development, I use React JS and Next JS for frontend, and Go lang with Gorrila Mux, Gin, Express JS, and Flask for backend. In terms of production processes, I am skilled in Linux operating systems, both pure OS and VPS servers, and I am currently learning Docker and CI/CD integration to streamline my development and production workflows.
+Hello, my name is Agus Dharma and I am currently a student studying Informatics at Udayana University. I specialize in fullstack development with a focus on mobile applications. My primary framework for mobile development is Flutter, which allows me to develop multiplatform applications. I am also proficient in React Native for mobile app development. Additionally, I am familiar with Kotlin and Swift for pure Android and iOS applications respectively. For web development, I use React JS and Next JS for frontend, and Go lang with Gorrila Mux, Gin, Express JS, and Flask for backend. In terms of production processes, I am skilled in Linux operating systems, both pure OS and VPS servers, and I am currently learning Docker and CI/CD integration to streamline my development and production workflows.
 <br/>
 <br/>
 
