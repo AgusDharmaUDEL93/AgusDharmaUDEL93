@@ -4,7 +4,7 @@
 
 Hello, my name is **Agus Dharma** and I'm a **fullstack developer** specializing in **mobile** and **frontend** developer
 <br/>
-You can visit my personal website at [udel-dev.com](https://udel-dev.com)
+You can visit my personal website at [udel.dev](https://udel.dev)
 <br/>
 <br/>
 
