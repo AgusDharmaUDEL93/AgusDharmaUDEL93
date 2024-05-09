@@ -1,7 +1,5 @@
 ## Welcome to my GitHub page! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
-[![Visits](https://visitcount.itsvg.in/api?id=AgusDharmaUDEL93&icon=0&color=0)](https://visitcount.itsvg.in)
-
 Hello, my name is **Agus Dharma** and I'm a **mobile developer** specializing in **android native**, **ios native** and **multiplatform** developer
 <br/>
 You can visit my personal website at [udel.dev](https://udel.dev)
@@ -29,15 +27,11 @@ In addition to my technical expertise, I bring leadership, business acumen, and 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 <br/>
-<br/>
 
 ## **Tech Stack**
 
 ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%23000000.svg?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23000000.svg?style=for-the-badge&logo=swift&logoColor=white) ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
 <br/>
-<br/>
-
 
 ## **Design**
 
@@ -46,13 +40,11 @@ In addition to my technical expertise, I bring leadership, business acumen, and 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe_photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/adobe_xd-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white)
 <br/>
-<br/>
 
 ## **Version Control**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<br/>
 <br/>
 
 ## **Others Tools**
@@ -60,8 +52,6 @@ In addition to my technical expertise, I bring leadership, business acumen, and 
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-%23107C10.svg?style=for-the-badge&logo=Xcode&logoColor=white)
-
-<br/>
 <br/>
 
 # 📊 **GitHub Stats**:
