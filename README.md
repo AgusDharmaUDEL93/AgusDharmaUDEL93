@@ -8,7 +8,7 @@ You can visit my personal website at [udel.dev](https://udel.dev)
 
 # 🏠 **About Me**
 
-I am Agus Dharma, a current computer science student at Udayana University deeply engaged in the Apple Developer Academy Program in 2024, with prior experience and knowledge gained from the Bangkit Academy 2023 in Android Development. My primary focus lies in mobile development, encompassing both Native and Multiplatform technologies.
+I am Agus Dharma, a Mobile Developer Application, with prior experience and knowledge gained from the Apple Developer Academy Program at UC in 2024 in iOS Development and Bangkit Academy 2023 in Android Development. My primary focus lies in mobile development, encompassing both Native and Multiplatform technologies.
 
 I have undergone the Android Developer Academy program at UC Cohort 2024, honing my skills in application development using Swift for iOS platform. Additionally, I have experience in developing applications with Kotlin Native from the Bangkit Academy 2023 for the Android platform. And I also master Multiplatform Technology using the Flutter framework as one of the popular multiplatform mobile frameworks.
 
