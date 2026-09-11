@@ -2,7 +2,7 @@
 
 <a href="https://udel.dev"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2EAADC,100:1F6FEB&section=header&text=Agus%20Dharma%20Kusuma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20%C2%B7%20Android%20%C2%B7%20iOS%20%C2%B7%20Flutter&descSize=17&descAlignY=58" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=2EAADC&center=true&vCenter=true&width=600&lines=Android+Native+%7C+Kotlin;iOS+Native+%7C+Swift;Multiplatform+%7C+Flutter;Co-Founder+%40+Umah+Kubus;Knowledge+Sharing+Speaker" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=2EAADC&center=true&vCenter=true&width=600&lines=Android+Native+%7C+Kotlin;iOS+Native+%7C+Swift;Multiplatform+%7C+Flutter;Mobile-Developer+%40+JGS;Knowledge+Sharing+Speaker;AI+Researcher" alt="Typing SVG" /></a>
 
 </div>
 
