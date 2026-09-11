@@ -74,15 +74,9 @@ I pair strong technical skills with leadership, business acumen, and time manage
 
 <div align="center">
   <a href="https://github.com/AgusDharmaUDEL93">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=AgusDharmaUDEL93&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgusDharmaUDEL93&theme=github_dark&hide_border=true&layout=compact&langs_count=8"/>
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=AgusDharmaUDEL93&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AgusDharmaUDEL93&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
   </a>
-  <br/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=AgusDharmaUDEL93&theme=dark&hide_border=true" alt="GitHub Streak"/></a>
-  <br/>
-  <a href="https://github.com/AgusDharmaUDEL93"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AgusDharmaUDEL93&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph"/></a>
-  <br/>
-  <a href="https://github.com/AgusDharmaUDEL93"><img src="https://github-profile-trophy.vercel.app/?username=AgusDharmaUDEL93&theme=darkhub&no-frame=true&margin-w=5&row=1" alt="trophy"/></a>
 </div>
 
 ---
@@ -91,22 +85,22 @@ I pair strong technical skills with leadership, business acumen, and time manage
 
 <div align="center">
   <a href="https://github.com/AgusDharmaUDEL93/X-Buddy">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=X-Buddy&theme=github_dark&hide_border=true"/>
+    <img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=X-Buddy&theme=github_dark&hide_border=true"/>
   </a>
   <a href="https://github.com/AgusDharmaUDEL93/job_dreamer">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=job_dreamer&theme=github_dark&hide_border=true"/>
+    <img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=job_dreamer&theme=github_dark&hide_border=true"/>
   </a>
   <a href="https://github.com/AgusDharmaUDEL93/presentation-displays">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=presentation-displays&theme=github_dark&hide_border=true"/>
+    <img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=presentation-displays&theme=github_dark&hide_border=true"/>
   </a>
   <a href="https://github.com/AgusDharmaUDEL93/multiselect-dropdown">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=multiselect-dropdown&theme=github_dark&hide_border=true"/>
+    <img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=multiselect-dropdown&theme=github_dark&hide_border=true"/>
   </a>
   <a href="https://github.com/AgusDharmaUDEL93/kisahnesia">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=kisahnesia&theme=github_dark&hide_border=true"/>
+    <img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=kisahnesia&theme=github_dark&hide_border=true"/>
   </a>
   <a href="https://github.com/AgusDharmaUDEL93/Fear-Exposure-AR">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=Fear-Exposure-AR&theme=github_dark&hide_border=true"/>
+    <img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=Fear-Exposure-AR&theme=github_dark&hide_border=true"/>
   </a>
 </div>
 
