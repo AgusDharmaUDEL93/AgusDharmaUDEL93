@@ -1,68 +1,130 @@
-## Welcome to my GitHub page! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+<div align="center">
 
-Hello, my name is **Agus Dharma** and I'm a **mobile developer** specializing in **android native**, **ios native** and **multiplatform** developer
-<br/>
-You can visit my personal website at [udel.dev](https://udel.dev)
-<br/>
-<br/>
+<a href="https://udel.dev"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2EAADC,100:1F6FEB&section=header&text=Agus%20Dharma%20Kusuma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20%C2%B7%20Android%20%C2%B7%20iOS%20%C2%B7%20Flutter&descSize=17&descAlignY=58" /></a>
 
-# 🏠 **About Me**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=2EAADC&center=true&vCenter=true&width=600&lines=Android+Native+%7C+Kotlin;iOS+Native+%7C+Swift;Multiplatform+%7C+Flutter;Co-Founder+%40+Umah+Kubus;Knowledge+Sharing+Speaker" alt="Typing SVG" /></a>
 
-I am Agus Dharma, a Mobile Developer Application, with prior experience and knowledge gained from the Apple Developer Academy Program at UC in 2024 in iOS Development and Bangkit Academy 2023 in Android Development. My primary focus lies in mobile development, encompassing both Native and Multiplatform technologies.
-
-I have undergone the Android Developer Academy program at UC Cohort 2024, honing my skills in application development using Swift for iOS platform. Additionally, I have experience in developing applications with Kotlin Native from the Bangkit Academy 2023 for the Android platform. And I also master Multiplatform Technology using the Flutter framework as one of the popular multiplatform mobile frameworks.
-
-In addition to my technical expertise, I bring leadership, business acumen, and effective time management skills to the table. As a Co-Founder of Umah Kubus, I have demonstrated my commitment to entrepreneurship. Within campus organizations, I actively serve as the Chairman of "Inovasi Sains (INVASI)" and have held positions in BEM FMIPA in 2022, such as Head of Education and Reasoning. I also contribute as a member of the Tech and Dev division and Mobile Clubs at SIC (Student Innovation Centre) and actively participate in several knowledge-sharing sessions as a speaker. This diverse skill set reflects my dedication to technical excellence and effective leadership within the technology and innovation landscape.<br/>
-<br/>
-
-# 🖥 **My Skills**
-
-## **Programming Languages**
-
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-<br/>
-
-## **Tech Stack**
-
-![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%23000000.svg?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23000000.svg?style=for-the-badge&logo=swift&logoColor=white) ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-<br/>
-
-## **Design**
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe_illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe_photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/adobe_xd-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white)
-<br/>
-
-## **Version Control**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<br/>
-
-## **Others Tools**
-
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-%23107C10.svg?style=for-the-badge&logo=Xcode&logoColor=white)
-<br/>
-
-# 📊 **GitHub Stats**:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgusDharmaUDEL93&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 <br/>
-<br/>
 
-# 📧 **Social Media**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AgusDharmaUDEL93&color=2EAADC&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
+  <a href="https://github.com/AgusDharmaUDEL93?tab=followers"><img src="https://img.shields.io/github/followers/AgusDharmaUDEL93?style=for-the-badge&logo=github&label=Followers&color=2EAADC" alt="followers"/></a>
+  <a href="https://udel.dev"><img src="https://img.shields.io/badge/udel.dev-%231F6FEB.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/></a>
+</p>
 
-[![Linkedin](https://img.shields.io/badge/agusdharmakusuma%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agusdharmakusuma/)<br/>
-[![Instagram](https://img.shields.io/badge/dharmagus__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dharmagus_/)<br/>
-[![Github](https://img.shields.io/badge/AgusDharmaUDEL93%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgusDharmaUDEL93)
+---
+
+## 👋 &nbsp;About Me
+
+Halo! I'm **Agus Dharma Kusuma**, a **Mobile Developer** from Bali, Indonesia 🇮🇩 — specializing in **Android Native**, **iOS Native**, and **Multiplatform** development.
+
+- 🎓 **Apple Developer Academy** @ UC — Cohort 2024 · iOS / Swift
+- 🚀 **Bangkit Academy** 2023 — Android / Kotlin
+- 💙 **Multiplatform** enthusiast — Flutter
+- 🏢 Co-Founder of **Umah Kubus**
+- 🎤 Knowledge-sharing speaker & Tech / Dev division member @ SIC (Student Innovation Centre)
+- 🧭 Chairman of **Inovasi Sains (INVASI)** · BEM FMIPA 2022
+
+I pair strong technical skills with leadership, business acumen, and time management — driven by technical excellence and innovation. ✨
+
+---
+
+## 🛠️ &nbsp;Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### Frameworks & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-%23000000.svg?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ARKit-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
+
+### Tools & Design
+<p>
+  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
+</p>
+
+---
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/AgusDharmaUDEL93">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=AgusDharmaUDEL93&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgusDharmaUDEL93&theme=github_dark&hide_border=true&layout=compact&langs_count=8"/>
+  </a>
+  <br/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=AgusDharmaUDEL93&theme=dark&hide_border=true" alt="GitHub Streak"/></a>
+  <br/>
+  <a href="https://github.com/AgusDharmaUDEL93"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AgusDharmaUDEL93&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph"/></a>
+  <br/>
+  <a href="https://github.com/AgusDharmaUDEL93"><img src="https://github-profile-trophy.vercel.app/?username=AgusDharmaUDEL93&theme=darkhub&no-frame=true&margin-w=5&row=1" alt="trophy"/></a>
+</div>
+
+---
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+  <a href="https://github.com/AgusDharmaUDEL93/X-Buddy">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=X-Buddy&theme=github_dark&hide_border=true"/>
+  </a>
+  <a href="https://github.com/AgusDharmaUDEL93/job_dreamer">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=job_dreamer&theme=github_dark&hide_border=true"/>
+  </a>
+  <a href="https://github.com/AgusDharmaUDEL93/presentation-displays">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=presentation-displays&theme=github_dark&hide_border=true"/>
+  </a>
+  <a href="https://github.com/AgusDharmaUDEL93/multiselect-dropdown">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=multiselect-dropdown&theme=github_dark&hide_border=true"/>
+  </a>
+  <a href="https://github.com/AgusDharmaUDEL93/kisahnesia">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=kisahnesia&theme=github_dark&hide_border=true"/>
+  </a>
+  <a href="https://github.com/AgusDharmaUDEL93/Fear-Exposure-AR">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AgusDharmaUDEL93&repo=Fear-Exposure-AR&theme=github_dark&hide_border=true"/>
+  </a>
+</div>
+
+---
+
+## 📫 &nbsp;Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/agusdharmakusuma/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/dharmagus_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://github.com/AgusDharmaUDEL93"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://udel.dev"><img src="https://img.shields.io/badge/Portfolio-%231F6FEB.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:agusdharma48@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1F6FEB,100:2EAADC&section=footer&fontSize=90" />
+  <p><i>"Code is poetry, ship it with purpose." — Built with 💙 in Bali</i></p>
+</div>
