@@ -1,0 +1,87 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # setiap hari jam 03:00 UTC
+  workflow_dispatch: # bisa di-trigger manual dari tab Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # biar bisa commit SVG hasil generate
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=github_dark&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - X-Buddy
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=X-Buddy&theme=github_dark&hide_border=true
+          path: profile/pin-x-buddy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - job_dreamer
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=job_dreamer&theme=github_dark&hide_border=true
+          path: profile/pin-job-dreamer.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - presentation-displays
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=presentation-displays&theme=github_dark&hide_border=true
+          path: profile/pin-presentation-displays.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - multiselect-dropdown
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=multiselect-dropdown&theme=github_dark&hide_border=true
+          path: profile/pin-multiselect-dropdown.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - kisahnesia
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=kisahnesia&theme=github_dark&hide_border=true
+          path: profile/pin-kisahnesia.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - Fear-Exposure-AR
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Fear-Exposure-AR&theme=github_dark&hide_border=true
+          path: profile/pin-fear-exposure-ar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: update README cards" || exit 0
+          git push
