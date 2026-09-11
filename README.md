@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AgusDharmaUDEL93&color=2EAADC&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
   <a href="https://github.com/AgusDharmaUDEL93?tab=followers"><img src="https://img.shields.io/github/followers/AgusDharmaUDEL93?style=for-the-badge&logo=github&label=Followers&color=2EAADC" alt="followers"/></a>
-  <a href="https://udel.dev"><img src="https://img.shields.io/badge/udel.dev-%231F6FEB.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/></a>
+  <a href="https://gusdhar.dev"><img src="https://img.shields.io/badge/gusdhar.dev-%231F6FEB.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/></a>
 </p>
 
 ---
@@ -22,10 +22,8 @@ Halo! I'm **Agus Dharma Kusuma**, a **Mobile Developer** from Bali, Indonesia �
 
 - 🎓 **Apple Developer Academy** @ UC — Cohort 2024 · iOS / Swift
 - 🚀 **Bangkit Academy** 2023 — Android / Kotlin
-- 💙 **Multiplatform** enthusiast — Flutter
-- 🏢 Co-Founder of **Umah Kubus**
-- 🎤 Knowledge-sharing speaker & Tech / Dev division member @ SIC (Student Innovation Centre)
-- 🧭 Chairman of **Inovasi Sains (INVASI)** · BEM FMIPA 2022
+- 💙 **AI & Multiplatform** enthusiast — Flutter
+- 🤖 **Kala-Agent** master's
 
 I pair strong technical skills with leadership, business acumen, and time management — driven by technical excellence and innovation. ✨
 
